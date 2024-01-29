@@ -58,7 +58,7 @@ The program presents a menu with options to perform various operations. Follow t
 ## File Format
 
 The product information is stored in a text file (`list.txt`). Each line in the file represents a product with the format:
-<code> <name> <price>
+code name price
 
 Example:
 
