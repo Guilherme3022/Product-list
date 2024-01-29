@@ -64,6 +64,7 @@ The product information is stored in a text file (`list.txt`). Each line in the 
 Example:
 
 101 Laptop 1200.50
+
 102 Smartphone 699.99
 
 ## Contributing
